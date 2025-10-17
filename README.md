@@ -2,7 +2,7 @@
 
 A simple IoT project that measures temperature using an Arduino board and a temperature sensor, then displays the readings on a web page using an ESP8266 Wi-Fi module.
 
-## 🔧 Components Used
+## Components Used
 
 * Arduino Uno
 * ESP8266 Wi-Fi Module
